@@ -13,10 +13,28 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ESTUDOS BCC">
+      <UniqueIdentifier>{ad56d9f2-7a36-475e-89c4-4cdfe166dc45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ESTUDOS BCC\2° Semestre">
+      <UniqueIdentifier>{28646090-25cf-433f-9217-fb31b1d47b30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ESTUDOS BCC\2° Semestre\Algoritmos II">
+      <UniqueIdentifier>{0aa7cc6b-1c32-4757-b621-b045b21e3d0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ESTUDOS BCC\2° Semestre\Algoritmos II\Lista06">
+      <UniqueIdentifier>{c3b3a029-1a8d-4679-9333-6419b2e4e416}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Estudos BCC.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercicioUm.c">
+      <Filter>ESTUDOS BCC\2° Semestre\Algoritmos II\Lista06</Filter>
+    </ClCompile>
+    <ClCompile Include="exercicioDois.c">
+      <Filter>ESTUDOS BCC\2° Semestre\Algoritmos II\Lista06</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
